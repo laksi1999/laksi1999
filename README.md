@@ -1,6 +1,6 @@
 
 <!--p align="center">
-  <img width="300" src="./doc/bg.gif"> <!--datascientist.png>
+  <img width="300" src="./doc/istock-1200937823.jpg"> <!--datascientist.png>
 </p-->
 |<img width="400" src="./doc/welcome.gif">|<img width="450" src="./doc/bg.gif">|
 |-----|-----|
