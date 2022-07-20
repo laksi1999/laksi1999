@@ -2,7 +2,7 @@
 <!--p align="center">
   <img width="300" src="./doc/istock-1200937823.jpg"> <!--datascientist.png>
 </p-->
-|<img width="400" src="./doc/img_2764-1.gif">|<img width="450" src="./doc/istock-1200937823.jpg">|
+|<img width="400" src="./doc/hi-icegif-2.gif">|<img width="450" src="./doc/istock-1200937823.jpg">|
 |-----|-----|
 <h3 align="center">
   Hey there 🤙
