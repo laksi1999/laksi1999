@@ -12,14 +12,6 @@
 </h3>
 
 
----
-
-### 👨‍💻 About Me :
-- 👀 I’m interested in the Data Science field.
-- 🌱 I’m currently learning Data Science and Engineering at University of Moratuwa
-- 💞️ I’m looking to collaborate on Machine Learning or Deep Learning projects.
-
----
 
 ### Connect with Me :<img src="./doc/Connect-With-Me.gif" alt="drawing" width="50"/>
 <div id="badges">
